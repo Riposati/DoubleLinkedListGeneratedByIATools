@@ -19,7 +19,7 @@ This project contains a Java implementation of a **Doubly Linked List**, generat
 
 ## 🛠 Technologies
 
-- **Java 17**
+- Java 17
 - IntelliJ IDEA (recommended IDE)
 - Amazon Q (Amazon and AWS)
 - AI Assistent (JetBrains)
