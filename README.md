@@ -9,19 +9,6 @@ Here’s a clean and informative `README.md` file for the [DoubleLinkedListGener
 
 This project contains a Java implementation of a **Doubly Linked List**, generated with the help of AI tools. It demonstrates basic data structure manipulation using Java, including adding, removing, and traversing nodes in both directions.
 
-## 📦 Project Structure
-
-```
-DoubleLinkedListGeneratedByIATools/
-│
-├── .idea/                      # IntelliJ project settings
-├── out/                        # Compiled class files
-├── src/                        # Source code
-│   └── Main.java               # Main class demonstrating usage of the doubly linked list
-├── DoubleLinkedList.iml       # IntelliJ module file
-└── README.md                   # Project documentation
-```
-
 ## 🚀 Features
 
 - Add elements to the front or end of the list
@@ -34,6 +21,8 @@ DoubleLinkedListGeneratedByIATools/
 
 - **Java 17**
 - IntelliJ IDEA (recommended IDE)
+- Amazon Q (Amazon and AWS)
+- AI Assistent (JetBrains)
 
 ## ▶️ How to Run
 
